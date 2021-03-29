@@ -1,7 +1,7 @@
 # LSUS
-Linux Server Update Services (LSUS) is a project that have the main goal to give a centralized console to manage updates on Linux machines.
+Linux Server Update Services (LSUS) is a project that have the main goal to give a console to centralize updates status of Linux machines.
 
-This project is actualy started in this concept:
+This project is actually started in this concept:
 
 Linux client machine: An agent application that collect information about the machine (Name, IP Adress, Ditribution Name, Distribution Version, How much updates are pending to install through his update mecanism (Ex.: Under Debian, Ubuntu, etc. what report "apt-get upgrade" on missing updates then send these informations to a centralized server).
 
